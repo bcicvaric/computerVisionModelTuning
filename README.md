@@ -4,7 +4,7 @@
 Example of fine tuning YOLOv8 object detection model on custom dataset from Roboflow.
 
 ## Input
-Input is downloaded from Roboflow as part of the code. For this you'll need to have a Roboflow account and retreive a key to download the dataset.
+Input is downloaded from Roboflow as part of the code. For this you'll need to have a Roboflow account, retreive a key and add it to roboflow_creds.json in order to download the dataset.
 
 ## Code
 All code is in the fine_tune_model.ipnyb. Includes downloading data from Roboflow and fine tuning the model.
